@@ -920,8 +920,8 @@ section {
 
 .services .icon-box .icon {
   margin: 0 auto;
-  width: 64px;
-  height: 64px;
+  width: 150px;
+  height: 150px;
   background: #f1f6fe;
   border-radius: 4px;
   border: 1px solid #deebfd;
@@ -930,6 +930,11 @@ section {
   justify-content: center;
   margin-bottom: 20px;
   transition: ease-in-out 0.3s;
+}
+
+.services .icon-box img {
+  width: 148px;
+  height: 148px;
 }
 
 .services .icon-box .icon i {
